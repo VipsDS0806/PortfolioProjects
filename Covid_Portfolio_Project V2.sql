@@ -143,3 +143,6 @@ JOIN PortfolioProject..Vaccinations vac
 WHERE dea.continent is not NULL
 --ORDER BY 2,3
 
+SELECT*
+FROM PercentPopulationVaccinated
+
